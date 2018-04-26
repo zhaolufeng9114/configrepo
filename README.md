@@ -1,0 +1,2 @@
+# configrepo
+config info
